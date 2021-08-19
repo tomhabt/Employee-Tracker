@@ -1,31 +1,37 @@
-# Employee-Tracker
 
-## Description
-A SQL database that tracks employees, their roles, and their respective department.
+1. Video demonstration for the typical user flow through the application (Part 1) Link: 
+2. Video demonstration for the typical user flow through the application (Part 2) Link: 
 
-## Table of Contents
-Code Utilized
-What to Expect
-Walkthrough Video
-License
-Lessons Learned
-Code Utilized
-This application was made using JavaScript, NPM, and MySQL.
+# Employee_Tracker
+  https://github.com/tomhabt/Employee_Tracker
 
-What to Expect
-When the user runs the application in Terminal:
-
-The user is presented with the title of the application.
-The user is then presented with a list of options for what they would like to do first.
-Once the user selects the desired action, they are presented with a response based on their selection.
-Selecting "view employees" will present the user with a table of all employees currently in the database.
-Selecting "view roles" will present the user with a table of all roles currently in the database.
-Selecting "view departments" will present the user with a table of all orles currently in the database.
-Selecting "add employee" will present the user with prompts to add the employee accurately.
-Selecting "add role" will present the user with prompts to add a role to the database.
-Selecting "add department" will present the user with prompts to add a department to the database.
-Selecting "update employee" will present the user with a list of employees which they will chose from to update.
-
-Since this application is run through the terminal, there is no website to view. To see how this application works, please follow the link below to view a walkthrough video.
-
-Click here to watch the video!
+  ## Description
+  A SQL database that tracks employees, their roles, and their respective department.
+  
+  ## Table of Contents 
+  * [Methods](#methods) 
+  * [Installation](#installation) 
+  * [Usage](#usage) 
+  * [Special Instruction](#special-instruction)
+  * [Technologies Used](#technologies)
+  * [Repository URL](#website)
+  * [Questions](#questions)
+  
+  ## Methods
+  The following methods were used to run the application properly: **FS,Inquirer,jest,Node**.
+   
+  ## Installation
+  The following necessary dependencies must be installed to run the application properly: **NPM, Inquirer, Mysql2, jest**.
+  ## Usage
+  In order to use this app, **tracks employees, their roles, and their respective department and add and remove.**.
+   
+  ## Special-instruction
+  The following special instruction must me followed: **Since this application is run through the terminal, there is no website to view, see how this application works by please follow the link above to view a walkthrough video.**.
+  ## Technologies 
+  The following technologies being used: **ES6,Node**.
+  ## Website
+  https://github.com/tomhabt/Employee_Tracker 
+  ## Contribution
+  Made with ❤️ by Thomas Habtemariam.
+  ## Questions
+  If you have any questions about the repo, open an issue or contact **tomhabt** directly at : thomas.habtemariam@gmail.com
