@@ -1,4 +1,5 @@
 
+# Employee_Tracker 
 1. Video demonstration for the typical user flow through the application (Part 1) Link: 
 https://drive.google.com/file/d/1X71bitJYIExVbQB9CYtDEY_hgF0UZ-j6/view?usp=sharing
 2. Video demonstration for the typical user flow through the application (Part 2) Link: 
@@ -6,8 +7,8 @@ https://drive.google.com/file/d/19Rpscy76KFCrX_uHlu2EZ7RRnHGV3Gzo/view?usp=shari
 3. Video demonstration for the typical user flow through the application (Part 3) Link: 
 https://drive.google.com/file/d/1w2qRMJRyQQHTnI6m_pvXQLRHmsEYJgVd/view?usp=sharing
 
-# Employee_Tracker
-  https://github.com/tomhabt/Employee_Tracker
+# Employee_Tracker Repo
+  https://github.com/tomhabt/Employee-Tracker.git
 
   ## Description
   A SQL database that tracks employees, their roles, and their respective department.
@@ -34,7 +35,7 @@ https://drive.google.com/file/d/1w2qRMJRyQQHTnI6m_pvXQLRHmsEYJgVd/view?usp=shari
   ## Technologies 
   The following technologies being used: **ES6,Node**.
   ## Website
-  https://github.com/tomhabt/Employee_Tracker 
+  Not deployable as it is a command line applicaion. Please download the repo and use the codes in your local machine or follow the demo video for functionality.
   ## Contribution
   Made with ❤️ by Thomas Habtemariam.
   ## Questions
